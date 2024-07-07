@@ -1,6 +1,8 @@
 # Network Analysis
 Three dimensional network analysis using stacked two dimensional images.
 
+Original work was done by [Qiber3D](https://github.com/theia-dev/Qiber3D).
+
 ## Workflow
 1. Go to test directory and create a separate folder to test with.
 ```
