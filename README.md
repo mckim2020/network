@@ -1,4 +1,4 @@
-# network
+# Network Analysis
 Three dimensional network analysis using stacked two dimensional images.
 
 ## Workflow
